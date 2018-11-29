@@ -58,6 +58,7 @@ while option != "QUIT":
         
     option = input("What would you like to do? (CHOOSE, ADD, REMOVE, FAVORITES, VIEW, QUIT: ").upper()
     
+    #References: YouTube playlist assignment and lab inspired the design and logic
     
     
     
