@@ -88,7 +88,8 @@ root.geometry("300x350")
 app = Application(root)
 root.mainloop()
 
-
+#References: https://www.youtube.com/watch?v=HVQeV7xe310
+#investary tkinter YouTube Tutorials 34-38
 
 
         
